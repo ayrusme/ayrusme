@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Surya Raman 👋
 
-<!--
-**ayrusme/ayrusme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering Manager focused on developer platforms, distributed systems, and reliability ⚙️
 
-Here are some ideas to get you started:
+I work on:
+- Developer ecosystems & public integrations 🌐
+- Multi-region systems and failure modes 🧭
+- Infrastructure, cost efficiency, and operational clarity 📊
+- Growing engineers through clear ownership and trust 🤝
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently: Engineering Manager at [PagerDuty](https://www.pagerduty.com/) 🚨  
+Previously: early engineer to Engineering Manager at [yellow.ai](https://yellow.ai)
+
+You can follow my writing & notes [here](https://suryaraman.dev) ✍🏾  
+You can reach out to me through [LinkedIn](https://www.linkedin.com/in/suryaraman/) 💼 or my [email](mailto://hello@suryaraman.dev) ✉️
